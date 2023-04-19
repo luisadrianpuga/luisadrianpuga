@@ -18,4 +18,4 @@ Here are some of the projects that I have worked on:
 
 ## Contact
 
-Thank you for visiting my profile! If you would like to get in touch, feel free to reach out to me at [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/luisadrianpuga/).
+Thank you for visiting my profile! If you would like to get in touch, feel free to reach out to me at [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/luispy/).
