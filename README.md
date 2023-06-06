@@ -8,7 +8,7 @@ Hi! My name is Luis Puga, and I am a software developer with a passion for solvi
 
 ## Skills
 
-I specialize in Python, Swift, and JavaScript, and have experience working with several popular web development frameworks such as Node.js, Flask, React, and Angular. Additionally, I have worked with a range of database technologies, including Chroma and MongoDB, and I am comfortable working with cloud computing platforms such as AWS and Google Cloud.
+I specialize in Python, Swift, and Java, and have experience working with several popular web development frameworks such as Node.js, Flask, React, and Kivy. Additionally, I have worked with a range of database technologies, including Chroma and MongoDB, and I am comfortable working with cloud computing platforms such as AWS and Google Cloud.
 
 ## Projects
 
