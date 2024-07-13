@@ -1,4 +1,4 @@
 # Hi there! 👋
 
-![Luis Puga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisadrianpuga&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=radical)
+![Luis Puga's GitHub Stats](https://github-sigma-lemon.vercel.app/api?username=luisadrianpuga&show_icons=true&hide_border=true&count_private=false&theme=graywhite)
 
