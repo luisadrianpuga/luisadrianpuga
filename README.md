@@ -10,7 +10,7 @@
   
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisadrianpuga&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top languages" />
   
-  <p><small>💻 Languages from the trenches</small></p>
+  <p><small>💻 Languages I commonly use</small></p>
 </div>
 
 ---
