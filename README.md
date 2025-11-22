@@ -6,7 +6,7 @@
     <img width="120" src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/luisp_logo.svg" alt="Luis Puga" />
   </a>
 </div>
-<h1 align="center">HELLO I'M LUIS</h1>
+<h1 align="center">I'M LUIS</h1>
 
 
 <p align="center"><strong>Software Engineer</strong> · Pushing the boundaries of what's possible</p>
