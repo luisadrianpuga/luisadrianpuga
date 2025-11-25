@@ -34,7 +34,7 @@ To me, software is a form of creative expression that is productive and fun. Goo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisadrianpuga&theme=github-dark-dimmed&custom_title=Luis%27%20Activity%20Graph&hide_border=true" width="680">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisadrianpuga&theme=github-dark-dimmed&custom_title=Luis%27%20Recent%2030%20Day%20Activity%20Graph&hide_border=true" width="680">
 </p>
 
 
