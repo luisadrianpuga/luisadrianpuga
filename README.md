@@ -26,13 +26,19 @@ To me, software is a form of creative expression that is productive and fun. Goo
 <div align="center">
   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/cat-typing.gif" width="120" alt="coding" />
 </div>
+
 <h2 align="center">GitHub Activity</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisadrianpuga&show_icons=true&theme=dark" width="280" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luisadrianpuga&theme=dark&hide_border=true" width="280" alt="GitHub Streak">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisadrianpuga&theme=github-dark-dimmed&custom_title=Luis%27%20Activity%20Graph&hide_border=true" width="280" alt="GitHub Activity">
-  
-</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luisadrianpuga&title=Commits,Experience,MultiLanguage,Repositories" width="680">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisadrianpuga&theme=github-dark-dimmed&custom_title=Luis%27%20Activity%20Graph&hide_border=true" width="680">
+</p>
+
+
+
 <h2 align="center">Connect</h2>
 <p align="center">
   <a href="https://leetcode.com/u/luispuga/">LeetCode</a> · <a href="https://www.linkedin.com/in/puga-luis/">LinkedIn</a>
