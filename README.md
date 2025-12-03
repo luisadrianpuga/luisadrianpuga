@@ -13,7 +13,7 @@
 
 <h2 align="center">Most Used Languages</h2>
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisadrianpuga&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top languages" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisadrianpuga&layout=compact&hide_title=1&card_width=400&theme=dark" alt="Top languages" />
 </div>
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 900px; margin: 0 auto;">
