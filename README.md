@@ -11,9 +11,11 @@
 
 <p align="center"><strong>Software Engineer</strong> · Pushing the boundaries of what's possible</p>
 
-<h2 align="center">Most Used Languages</h2>
+<h2 align="center">Badges</h2>
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisadrianpuga&layout=compact&hide_title=1&card_width=400&theme=dark" alt="Top languages" />
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luisadrianpuga&title=Commits,Experience,MultiLanguage,Repositories" width="680">
+</p>
 </div>
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 900px; margin: 0 auto;">
@@ -29,9 +31,7 @@ To me, software is a form of creative expression that is productive and fun. Goo
 
 <h2 align="center">GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisadrianpuga&title=Commits,Experience,MultiLanguage,Repositories" width="680">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisadrianpuga&theme=github-dark-dimmed&custom_title=Luis%27%20Recent%2030%20Day%20Activity%20Graph&hide_border=true" width="680">
