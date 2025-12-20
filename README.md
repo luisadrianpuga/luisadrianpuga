@@ -11,12 +11,7 @@
 
 <p align="center"><strong>Software Engineer</strong> · Pushing the boundaries of what's possible</p>
 
-<h2 align="center">Badges</h2>
-<div align="center">
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisadrianpuga&title=Commits,Experience,MultiLanguage,Repositories" width="680">
-</p>
-</div>
+
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 900px; margin: 0 auto;">
 To me, software is a form of creative expression that is productive and fun. Good software is beautiful, automates your life, solves real problems, and helps people. The limitations of computing are the tools of that expression, and I look forward to pushing them further.
