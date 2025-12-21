@@ -18,7 +18,7 @@ To me, software is a form of creative expression that is productive and fun. Goo
 </p>
 <h2 align="center">My Passions <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/smile.gif" width="50" alt="smile" /></h2>
 <p align="center">
-💻 Software Engineering · 🎨 Computer Graphics · 🧠 Computer Theory · 🔬 Science · 🍽️ Food
+Software Engineering · Computer Graphics · Science · Food
 </p>
 <div align="center">
   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/cat-typing.gif" width="120" alt="coding" />
