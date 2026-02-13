@@ -16,14 +16,14 @@
 <p align="center" style="max-width: 900px; margin: 0 auto;">
 To me, software is a form of creative expression that is productive and fun. Good software is beautiful, automates your life, solves real problems, and helps people. The limitations of computing are the tools of that expression, and I look forward to pushing them further.
 </p>
-<h2 align="center">2026 Goals</h2>
+<h2 align="center">My 2026 Goals</h2>
 <p align="center">
-Secure a Software Engineering Role · Ship an Open-Source Project That Helps Others
+Secure a Software Engineering Role · Ship an Open-Source Project That Helps Others 
 </p>
 
 <h2 align="center">My Passions <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/smile.gif" width="50" alt="smile" /></h2>
 <p align="center">
-Software Engineering · Computer Graphics · Science · Food
+Software · Computer Graphics · Science · Food
 </p>
 <div align="center">
   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/cat-typing.gif" width="120" alt="coding" />
