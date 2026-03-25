@@ -10,38 +10,26 @@
 <p align="center"><strong>Software Engineer</strong> · Pushing the boundaries of what's possible</p>
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 900px; margin: 0 auto;">
-To me, software is a form of creative expression that is productive and fun. Good software is beautiful, automates your life, solves real problems, and helps people. The limitations of computing are the tools of that expression, and I look forward to pushing them further.
+I have been programming since I was 13 years old. My early interest where in HTML & CSS but have not evolved to a wide range of languages. To me, great software if fun and productive. Let's build something together!
 </p>
-<h2 align="center">My Goals & Passions</h2>
-<p align="center">
-Secure a Software Engineering Role · Ship an Open-Source Project That Helps Others 
-</p>
-
-<p align="center">
-Computer Science · Gaming · Food
-  <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/smile.gif" width="50" alt="smile" />
-</p>
-
 <h2 align="center">Projects</h2>
 
 <div align="center">
 
 ### 1. [Mantis](https://github.com/luisadrianpuga/mantis)
 A minimal, extensible personal AI runtime for autonomous task execution with local LLMs, vector memory, and tool orchestration.
-**Stack:** Python, LLMs, Vector Memory
 
-### 2. [Schedule](https://github.com/luisadrianpuga/schedule)
+**Stack:** Python · Vector Memory
+
+### 2. [Sentinel](https://github.com/luisadrianpuga/sentinel)
+An eBPF-based behavioral monitor for AI agent processes on Linux. It attaches kernel tracepoints to a target process, captures syscall activity in real time, prints a live event stream, and stores those events for later query and session-to-session comparison.
+
+**Stack:**  Go · Linux · eBPF · AI Agents
+
+### 3. [Schedule](https://github.com/luisadrianpuga/schedule)
 A flexible, open-source appointment scheduling system built with Flask. Features user management, availability slots, appointment booking, notifications, messaging, and ratings. A modern Cal.com replacement with role-based access control.
-**Stack:** Flask, SQLite, Python
 
-### 3. [Gravitational Attraction](https://github.com/luisadrianpuga/GravitationalAttraction)
-Physics I Calculus final project visualizing gravitational forces and orbital mechanics using computational physics simulations.
-**Stack:** Processing, Python
-
-### 4. [FileWizard](https://github.com/luisadrianpuga/FileWizard)
-A Python utility for intelligent file management and automation.
-**Stack:** Python
-
+**Stack:** Flask · SQLite · Python
 
 </div>
 
@@ -54,7 +42,8 @@ A Python utility for intelligent file management and automation.
 </p>
 <h2 align="center">Connect</h2>
 <p align="center">
-  <a href="https://leetcode.com/u/luispuga/">LeetCode</a> · <a href="https://www.linkedin.com/in/puga-luis/">LinkedIn</a>
+   <a href="https://www.linkedin.com/in/puga-luis/">LinkedIn</a> · <a href="https://leetcode.com/u/luispuga/">LeetCode</a>
+   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/smile.gif" width="50" alt="smile" />
 </p>
 <div align="center">
   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/flames.gif" width="200" alt="flames" />
