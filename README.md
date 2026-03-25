@@ -26,11 +26,6 @@ An eBPF-based behavioral monitor for AI agent processes on Linux. It attaches ke
 
 **Stack:**  Go · Linux · eBPF · AI Agents
 
-### 3. [Schedule](https://github.com/luisadrianpuga/schedule)
-A full-stack appointment scheduling system with RBAC, JWT auth, real-time messaging, and SSR. Forked by a company for production use and recognized with a Letter of Recommendation for engineering quality.
-
-**Stack:** Flask · SQLite · Python
-
 </div>
 
 <div align="center">
