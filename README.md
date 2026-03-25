@@ -7,10 +7,10 @@
   </a>
 </div>
 <h1 align="center">HELLO I'M LUIS</h1>
-<p align="center"><strong>Software Engineer</strong> · Pushing the boundaries of what's possible</p>
+<p align="center"><strong>Fullstack / Backend Engineer</strong> · Go · Python · AI Infrastructure</p>
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 900px; margin: 0 auto;">
-I have been programming since I was 13 years old. My early interest where in HTML & CSS but have not evolved to a wide range of languages. To me, great software if fun and productive. Let's build something together!
+I have been programming since I was 13 years old. To me, great software is fun and productive. Let's build something together!
 </p>
 <h2 align="center">Projects</h2>
 
@@ -27,7 +27,7 @@ An eBPF-based behavioral monitor for AI agent processes on Linux. It attaches ke
 **Stack:**  Go · Linux · eBPF · AI Agents
 
 ### 3. [Schedule](https://github.com/luisadrianpuga/schedule)
-A flexible, open-source appointment scheduling system built with Flask. Features user management, availability slots, appointment booking, notifications, messaging, and ratings. A modern Cal.com replacement with role-based access control.
+A full-stack appointment scheduling system with RBAC, JWT auth, real-time messaging, and SSR. Forked by a company for production use and recognized with a Letter of Recommendation for engineering quality.
 
 **Stack:** Flask · SQLite · Python
 
@@ -43,7 +43,7 @@ A flexible, open-source appointment scheduling system built with Flask. Features
 <h2 align="center">Connect</h2>
 <p align="center">
    <a href="https://www.linkedin.com/in/puga-luis/">LinkedIn</a> · <a href="https://leetcode.com/u/luispuga/">LeetCode</a>
-   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/smile.gif" width="50" alt="smile" />
+   · <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/smile.gif" width="50" alt="smile" />
 </p>
 <div align="center">
   <img src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/flames.gif" width="200" alt="flames" />
