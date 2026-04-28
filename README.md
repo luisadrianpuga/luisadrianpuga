@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/puga-luis/">
-    <img width="120" src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/luisp/luisp_logo.svg" alt="Luis Puga" />
+    <img width="120" src="https://flappy-bird.nyc3.cdn.digitaloceanspaces.com/_logo.svg" alt="Luis Puga" />
   </a>
 </div>
 <h1 align="center">HELLO I'M LUIS</h1>
