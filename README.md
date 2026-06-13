@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1 align="center">HELLO I'M LUIS</h1>
-<p align="center"><strong>Fullstack / Backend Engineer</strong> · Go · Python · AI Infrastructure</p>
+<p align="center"><strong>Fullstack Software Engineer</strong> · Go · Python · AI Infrastructure</p>
 <h2 align="center">About Me</h2>
 <p align="center" style="max-width: 900px; margin: 0 auto;">
 I have been programming since I was 13 years old. To me, great software is fun and productive. Let's build something together!
